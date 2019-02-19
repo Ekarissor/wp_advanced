@@ -1,0 +1,43 @@
+/*
+Theme Name:   Twenty Seventeen Child
+Template:     twentyseventeen
+Description:  Twenty Seventeen Child Theme
+Author:       Alexandre Briffaut
+Author URI:   http://alex-ception.kim
+Version:      1.0.0
+License:      GNU General Public License v3 or later
+License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain:  twenty-seventeen-child
+*/
+
+.wrap {
+    background-color: black;
+}
+
+.widget-title {
+    color: white !important;
+}
+
+.search-submit {
+    color: red !important;
+}
+
+.entry-date {
+    color: yellow !important;
+}
+
+a:hover {
+    color: white !important;
+}
+
+a {
+    color: yellow !important;
+}
+
+p {
+    color: red !important;
+}
+
+.entry-title {
+    color: cyan !important;
+}
